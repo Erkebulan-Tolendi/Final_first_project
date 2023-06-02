@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/grandfather"
+            android:title="@string/menu_ata" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/grandmother"
+            android:title="@string/menu_apa" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/dad"
+            android:title="@string/menu_ake" />
+        <item
+            android:id="@+id/nav_ana"
+            android:icon="@drawable/mother"
+            android:title="@string/menu_ana" />
+        <item
+            android:id="@+id/nav_user"
+            android:icon="@drawable/baseline_person_24"
+            android:title="@string/menu_user" />
+    </group>
+</menu>

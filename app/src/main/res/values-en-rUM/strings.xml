@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <string name="btn_login">Login</string>
+    <string name="tv_new_user">New User? Register</string>
+
+    <string name="fill" translatable="false">Fill the line</string>
+    <string name="welcome" translatable="false">Welcome</string>
+
+    <string name="wrong" translatable="false">Wrong email address or password</string>
+    <string name="menu_ata">Grandfather</string>
+    <string name="menu_apa">Grandmother</string>
+    <string name="menu_ake">Father</string>
+    <string name="menu_user">Profile</string>
+    <string name="menu_ana">Mother</string>
+</resources>
